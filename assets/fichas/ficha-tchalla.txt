@@ -1,0 +1,25 @@
+FICHA - T'CHALLA / PANTERA NEGRA
+
+Contexto: Está em um momento de transição: seu pai, o rei T'Chaka, foi assassinado e agora T'Challa deve assumir o trono de Wakanda. Para isso, precisa passar pela cerimônia/ritual.
+
+1ª Fase: É desafiado por M'Baku, da tribo Jabari. T'Challa é um jovem honrado e de bom coração. Ele deve lutar com coragem e bravura, mas também deve demonstrar compaixão por cada membro de Wakanda. Assim, a despeito da ira de M'Baku, T'Challa deve aplicar a quantidade correta de força para derrotar M'Baku, mas sem matá-lo. 
+sugestão de prompt: [jogo do advinha um número de 1 a 30,  5 chances?]
+Prêmio (?): O herói precisa receber uma mensagem de seu pai, encontrando-se com ele acessando o plano espiritual, através de uma erva cultivada pelos sacerdotes de Wakanda. Qual o nome dessa erva? [dar 4 opções] // T'Chaka disse para o filho. Mensagem: "Você é um bom homem, com um bom coração. E é difícil para um bom homem ser rei."//
+
+transição: Poucos dias depois...
+---------------------------------------------------------------
+2ª Fase: T'Challa é informado de que um artefato feito com vibranium foi roubado pelo vilão e assassino de seu pai, Ulysse Klaue. //Seu amigo W'Kabi lhe pede para vingar a morte do rei T'Chaka, trazendo Klaue vivo para ser julgado em Wakanda.// Ao lado de Okoye, líder das Dora Milaje, e Nakia, nosso herói parte em missão para capturar o vilão e impedi-lo de vender o artefato de vibranium.
+Como impedir a venda do artefato?
+
+sugestão de prompt: dar três opções: 
+A) Matar o vilão --> leva a game over
+B) Trocar as maletas --> opção correta
+C) Entrar em combate --> leva à fuga do vilão e, consequentemente, game over
+----------------------------------------------------------------
+Transição:
+Eric 'Killmonger', primo de T'Challa, aparece em Wakanda reivindicando seu direito de lutar pelo trono. Movido por um sentimento de vingança e pelo desejo de usar as tecnologias feitas com vibranium para lutar contra os colonizadores brancos, Killmonger é um rival poderoso e desafia T'Challa para um combate. O que você faz?
+A) Aceita o desafio (próxima fase)
+B) Recusa (game over)
+C) Pede mais tempo para avaliar (game over)
+
+3ª Fase: Mesmo lutando bravamente, T'Challa é derrotado e Killmonger assume o trono de Wakanda. Após ser resgatado por M'Baku e curado pela Rainha Ramonda, o desafio final do Pantera Negra é resgatar seu título de rei e impedir que Killmonger espalhe as tecnologias de vibranium pelo mundo, desvelando o esconderijo de Wakanda. 
