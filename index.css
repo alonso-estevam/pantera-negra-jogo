@@ -10,6 +10,7 @@ body {
     background-image: url('assets/imagens/logo-reduzida.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: #222235;
 }
 
 header {
