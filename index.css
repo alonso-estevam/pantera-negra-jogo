@@ -1,36 +1,44 @@
 /* Reset css */
-* {
-    width: 100%;
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+body, html {
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
 }
+
 
 body {
     background-image: url('assets/imagens/logo-reduzida.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: #222235;
+    background-color: #000000;
+    color:#f0f0f0;
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
-header {
-    display: inline-block;
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     margin-top: 30%;
 }
 
 h1 {
-    color:#f0f0f0;
     font-size: 1.5em;
     font-family: 'Press Start 2P', sans-serif;
-    text-shadow: 3px 5px #17223a;
+    text-shadow: 3px 5px #b86800;;
 }
 
-nav {
-    margin-top: 30px;
-}
-
-nav a {
+a {
     text-decoration: none;
     color: #f0f0f0;
     font-family: 'Press Start 2P', sans-serif;
@@ -43,8 +51,16 @@ nav a {
     padding: 10px;
 }
 
-nav a:hover {
+a:hover {
     font-size: 1.2em;
     color: #cdcdf3;
     transition: 0.3s;
+}
+
+footer {
+    background-color: #2222358c;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    font-size: 16px;
 }

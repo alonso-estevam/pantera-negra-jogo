@@ -16,13 +16,13 @@ nav {
     font-size: 0.9em;
     display: flex;
     justify-content: space-between;
+    align-content: center;
     padding-left: 30px;
     padding-right: 30px;
     margin-top: 30px;
 }
 
 nav a {
-    width: 150px;
     text-decoration: none;
     color: #f0f0f0;
 }
