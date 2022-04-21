@@ -1,7 +1,45 @@
 FICHA - SHURI
 
-"Possuindo uma das mentes mais brilhantes do mundo, a irmã do Pantera Negra, a princesa Shuri, também é a diretora científica de Wakanda, uma posição que ela preza muito mais do que seu status real." (https://www.marvel.com/characters/shuri/on-screen/profile)
+FASE 1
+Shuri, você possui uma das mentes mais brilhantes do mundo. Além de princesa, você é a diretora científica de Wakanda, e desenvolve vários equipamentos que melhoram o desempenho de seu irmão, T'Challa, nas missões. 
 
-Shuri é capaz de participar de perseguições de continentes distantes usando uma invenção dela que permite dirigir e pilotar remotamente em uma simulação do veículo que está sendo controlado.
+Recentemente você está trabalhando em novo uniforme para o Pantera Negra, um uniforme que absorve e armaneza energia cinética dos golpes adversários, e pode usar essa energia de volta contra os inimigos.
 
-Shuri criou manoplas de vibranium para uso em batalha, que são capazes de emitir poderosas rajadas de energia.
+Agora você precisa se lembrar: qual a fórmula para calcular a energia cinética?
+
+a) E = (m * v²) / 2 resposta certa
+b) E = mc²
+c) E = (m / v) * 2
+d) E = m² * v + c
+
+=================================================================
+
+FASE 2
+"Só porque algo funciona não significa que não possa ser melhorado". Essa realmente te define, Shuri! Depois de aprimorar o uniforme do Pantera, desenvolver calçados anti-ruído e equipamentos avançados de espionagem, agora você quer aumentar a aceleração do veículo usado na perseguição a Klaue, um carro que você pilotou remotamente através de um simulador.
+
+Antes, de fazer os aprimoramentos, você está analisando a trajetória do veículo na perseguição e percebeu que, em determinado momento, o carro estava a 72km/h, e 15 segundos depois estava a 65m/s. Qual foi a aceleração média do veículo?
+a) 6m/²
+b) 20m/s
+c) 3m/s
+d) 3m/s² resposta certa
+
+=================================================================
+FASE 3 
+
+Depois de Killmonger assumir o trono de Wakanda e começar a por em prática seu plano de exportar o vibranium, você precisa lutar. Na batalha, você usa manoplas de vibranium capazes de emitir poderosas rajadas de energia. Como você sempre tem um plano B, já está pensando que outro material teria a propriedade de alta resistência a desgastes e abrasão, sendo capaz de armazenar boa parte da energia resultante das compressões. Esse material talvez poderia substituir, mesmo que só parcialmente, o vibranium. Que material é esse?
+a) Ouro
+b) Carboneto de Tungstênio
+c) Titânio
+d) Aço
+=================================================================
+
+FASE 4 
+Parabéns pela sua trajetória até aqui! Você foi incrível, e agora está encarregada de liderar projetos de incentivo à educação científica e tecnológica para a comunidade negra. Você resolveu pesquisar sobre cientistas negras, e descobriu duas mulheres negras que, atualmente, fazem um excelente trabalho pesquisando sobre racismo e outros vieses na área da computação. Essas mulheres são:
+a) Ada Lovelace, matemática e escritora inglesa, reconhecida por ter escrito o primeiro algoritmo para ser processado por uma máquina; e Katherine Johnson, matemática, física e cientista espacial norte-americana que fez contribuições fundamentais para a aeronáutica e exploração espacial, em especial em aplicações da computação na NASA.
+
+b) Alisson Randal, linguista, cientista da computação, desenvolvedora de software, escritora e estrategista de open source; e Cathy O'Neil, matemática, cientista de dados e autora do livro "Algoritmos de destruição em massa".
+
+c) Nina da Hora, cientista da computação, pesquisadora na área de pensamento computacional, hacker antirracista, professora e podcaster no Ogunhê Podcast; e Joy Buolamwini, cientista da computação, "poeta do código" e fundadora da Liga da Justiça Algorítmica.
+
+d) Sally Floyd, conhecida por seu trabalho em controle de congestionamento na Internet, figurando no top 10 dos pesquisadores mais citados em ciência da computação; e Enedina Alves Marques, a primeira mulher negra a se formar em engenharia no Brasil, em 1945. Antes dela, somente quatro mulheres já tinham se graduado em engenharia em todo o território nacional.
+

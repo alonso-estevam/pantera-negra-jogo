@@ -1,14 +1,14 @@
 
 // FUNÇÃO PARA A FASE I
 function confereResposta1(respostaCerta) {
-    var respostaJogador = prompt("Digite a resposta");
+    var respostaJogador = prompt("Digite a resposta (A, B, C ou D)");
     if (respostaJogador.toUpperCase() === respostaCerta) {
         alert("Parabéns! Você acertou na primeira tentativa!");
 
         window.location.replace('tchalla-fase2.html');
     } else {
         alert("Que pena, você errou. Segunda tentativa:");
-        var respostaJogador = prompt("Digite a resposta");
+        var respostaJogador = prompt("Digite a resposta (A, B, C ou D)");
 
         if (respostaJogador.toUpperCase() === respostaCerta) {
             alert("Parabéns! Você acertou na segunda tentativa!");
@@ -16,7 +16,7 @@ function confereResposta1(respostaCerta) {
 
         } else {
             alert("Que pena, você errou. Última tentativa:");
-            var respostaJogador = prompt("Digite a resposta");
+            var respostaJogador = prompt("Digite a resposta (A, B, C ou D)");
             if (respostaJogador.toUpperCase() === respostaCerta) {
                 alert("Ufa! Você acertou na terceira tentativa!");
                 window.location.replace('tchalla-fase2.html');
@@ -88,7 +88,7 @@ function confereResposta4(respostaCerta) {
 
         if (respostaJogador.toUpperCase() === respostaCerta) {
             alert("Parabéns! Foi por pouco, mas você acertou na segunda tentativa!");
-            window.location.replace('tchalla-final.html');
+            window.location.replace('../finalizou.html');
 
         } else {
             alert("Que pena, era sua última chance. GAME OVER");
