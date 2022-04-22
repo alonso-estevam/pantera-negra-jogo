@@ -39,7 +39,7 @@ main {
     display: flex;
 }
 
-h1 {
+h1, h2 {
     color:#f0f0f0;
     font-size: 1.2em;
     letter-spacing: 3px;
@@ -94,4 +94,23 @@ button:hover {
     font-size: 22px;
     width: 320px;
     height: 42px;
+}
+
+.botao {
+    text-decoration: none;
+    color: #f0f0f0;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 1rem;
+    margin-right: 25px;
+    margin-left: 25px;
+    border: 1px solid #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 5px 8px;
+    padding: 10px;
+}
+
+.botao:hover {
+    font-size: 1.2rem;
+    color: #cdcdf3;
+    transition: 0.3s;
 }

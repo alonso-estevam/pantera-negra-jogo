@@ -79,16 +79,16 @@ function confereResposta3() {
 function confereResposta4(respostaCerta) {
     var respostaJogador = prompt("Digite a resposta");
     if (respostaJogador.toUpperCase() === respostaCerta) {
-        alert("Parabéns! Você acertou na primeira tentativa!");
+        alert("Parabéns! Você acertou na primeira tentativa e finalizou o jogo!");
 
-        window.location.replace('tchalla-final.html');
+        window.location.href = '../finalizou.html';
     } else {
         alert("Que pena, você errou. Última tentativa:");
         var respostaJogador = prompt("Digite a resposta");
 
         if (respostaJogador.toUpperCase() === respostaCerta) {
             alert("Parabéns! Foi por pouco, mas você acertou na segunda tentativa!");
-            window.location.replace('../finalizou.html');
+            window.location.href = '../finalizou.html';
 
         } else {
             alert("Que pena, era sua última chance. GAME OVER");
