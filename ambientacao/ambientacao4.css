@@ -34,7 +34,7 @@ nav a:hover {
 }
 
 div {
-    background-image: url('../assets/imagens/cenario_killmonger.jpg');
+    background-image: url('../assets/imagens/afrika.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 85vh;
@@ -45,10 +45,11 @@ div {
 }
 
 p {
-    color: #F3A902;
+    color: #e4e4e4;
     font-family: 'Chakra Petch';
     font-size: 1.4em;
     padding-top: 20px;
     padding-right: 40px;
-    width: 75%;
+    width: 80%;
+
 }

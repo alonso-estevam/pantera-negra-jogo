@@ -11,8 +11,8 @@ function confereResposta1(respostaCerta) {
             break;
         } else if (respostaJogador.toUpperCase() === 'A' ||  respostaJogador.toUpperCase() === 'B' || respostaJogador.toUpperCase() === 'C') {
             contador--;
-            alert(`Resposta incorreta, tente novamente!\n Você tem ${contador} tentativas!`);
-            escolha = prompt('Digite a resposta (A, B, C ou D):')
+            alert(`Resposta incorreta, tente novamente!\n Tentativas restantes: ${contador}`);
+            respostaJogador = prompt('Digite a resposta (A, B, C ou D):')
         } else {
             alert("Resposta inválida! Digite A, B, C ou D")
             respostaJogador = prompt('Digite a resposta (A, B, C ou D):');
@@ -33,8 +33,8 @@ function confereResposta2(respostaCerta) {
             break;
         } else if (respostaJogador.toUpperCase() === 'A' ||  respostaJogador.toUpperCase() === 'C' || respostaJogador.toUpperCase() === 'D') {
             contador--;
-            alert(`Resposta incorreta, tente novamente!\n Você tem ${contador} tentativas!`);
-            escolha = prompt('Digite a resposta (A, B, C ou D):')
+            alert(`Resposta incorreta, tente novamente!\n Tentativas restantes: ${contador}`);
+            respostaJogador = prompt('Digite a resposta (A, B, C ou D):')
         } else {
             alert("Resposta inválida! Digite A, B, C ou D")
             respostaJogador = prompt('Digite a resposta (A, B, C ou D):');
@@ -55,7 +55,7 @@ function confereResposta3(respostaCerta) {
             break;
         } else if (respostaJogador.toUpperCase() === 'B' ||  respostaJogador.toUpperCase() === 'C' || respostaJogador.toUpperCase() === 'D') {
             contador--;
-            alert(`Resposta incorreta, tente novamente!\n Você tem ${contador} tentativas!`);
+            alert(`Resposta incorreta, tente novamente!\n Tentativas restantes: ${contador}`);
             escolha = prompt('Digite a resposta (A, B, C ou D):')
         } else {
             alert("Resposta inválida! Digite A, B, C ou D")
